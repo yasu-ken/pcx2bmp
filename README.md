@@ -2,6 +2,7 @@
 Graphic converter for PCEngine
 
 PCX(256 palette) ---> BMP(256 palette)
+
 BMP(256 palette) ---> PCX(256 palette)
 
 ---------------------------
